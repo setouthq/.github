@@ -1,4 +1,4 @@
-# Setout, Inc.
+# Setout
 
 In construction, the `set out` is the most critical first step: translating the blueprint onto the ground with perfect precision. Any error here compromises the entire structure.
 
